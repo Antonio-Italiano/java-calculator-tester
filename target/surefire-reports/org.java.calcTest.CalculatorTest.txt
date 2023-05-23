@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.java.calcTest.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 50, Failures: 0, Errors: 0, Skipped: 10, Time elapsed: 0.09 s - in org.java.calcTest.CalculatorTest
